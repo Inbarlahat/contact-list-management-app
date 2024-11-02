@@ -1,3 +1,6 @@
+## Contact List Management Application - Home Assignment
+![image](https://github.com/user-attachments/assets/2705d089-85a9-4f36-b7c5-c1e9eda34312)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
